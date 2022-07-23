@@ -1098,6 +1098,8 @@ function AtlasLoot_FixText(text)
     text = gsub(text, "#alliance#", "|TInterface\\AddOns\\AtlasLoot\\Images\\Alliance:16:16:0:-2|t");
     text = gsub(text, "#fireflower#", "|TInterface\\Icons\\INV_SummerFest_FireFlower:0|t");
     text = gsub(text, "#t10mark#", "|TInterface\\Icons\\ability_paladin_shieldofthetemplar:0|t");
+    text = gsub(text, "#t10.1mark#", "|TInterface\\Icons\\ability_paladin_judgementsofthejust:0|t");
+    text = gsub(text, "#primordialsaronite#", "|TInterface\\Icons\\spell_fire_felflamebreath:0|t");
 	text = gsub(text, "#ssunmark#", "|TInterface\\Icons\\INV_Shield_48:0|t");
 	text = gsub(text, "#legendarygem#", "|TInterface\\Icons\\inv_legendary_chimeraoffear:18|t");
 	text = gsub(text, "#pvevalorpoints#", "|TInterface\\Icons\\pvecurrency-valor:15|t");
