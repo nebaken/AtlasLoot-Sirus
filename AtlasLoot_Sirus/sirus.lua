@@ -1,4 +1,4 @@
-﻿local AL = LibStub("AceLocale-3.0"):GetLocale("AtlasLoot");
+local AL = LibStub("AceLocale-3.0"):GetLocale("AtlasLoot");
 local BabbleFaction = AtlasLoot_GetLocaleLibBabble("LibBabble-Faction-3.0")
 local BabbleZone = AtlasLoot_GetLocaleLibBabble("LibBabble-Zone-3.0")
 
@@ -3792,7 +3792,7 @@ AtlasLoot_Data["SIRUSLEGENDARYMENU"] = {
 		{ 16, 158009, "", "=q4=Мантия властителя духов", "=ds=#s3#, #a1#"};
 		{ 17, 158014, "", "=q4=Отмеченные безликим кюлоты", "=ds=#s11#, #a1#"};
 		{ 18, 158040, "", "=q4=Капюшон ментального вопля", "=ds=#s1#, #a2#"};
-		{ 19, 158053, "", "=q4=Пояс неуловимого", "=ds=#s10#, #a2#"};
+		{ 19, 158045, "", "=q4=Пояс неуловимого", "=ds=#s10#, #a2#"};
 		{ 20, 158045, "", "=q4=Питаемый яростью жилет", "=ds=#s5#, #a3#"};
 		{ 21, 158077, "", "=q4=Ремень с золотой оторочкой", "=ds=#s10#, #a3#"};
 		{ 22, 158078, "", "=q4=Кольчужные наголенники непрощающего", "=ds=#s11#, #a3#"};
